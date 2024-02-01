@@ -1,6 +1,6 @@
 # Project Proposal
 
-Betty Li
+Betty Li, Silu Xing
 
 ### Project title
 
